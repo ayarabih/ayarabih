@@ -7,7 +7,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `engineering for technology agriculture ` from Damanhour University
+- :school: I am a `engineering for technology agriculture ` 
 - 🔭 I’m currently working on Devops engineering)
 - 🌱 I’m currently learning `AWS and Azur` and `FWD Advanced Devops engineering`
 - 📫 How to reach me **ayarabih21@gmail.com**
