@@ -46,17 +46,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
-----
-<summary><b>⚡ Git profile Trophies</b></summary>
 
-<p align="center"> <a href="https://github.com/ayarabih"><img src="https://github-profile-trophy.vercel.app/?username=manarshahin48&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
 
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ayarabih"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
